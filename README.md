@@ -5,7 +5,7 @@
 
 - Backlog: [Trello](https://trello.com/b/8WWPpodf/ttip-nombre-pendiente)
 
-###Integrantes
+### Integrantes
 - Esteban Matas
 - Jeremias Tomé
 
