@@ -16,7 +16,7 @@ El objetivo del proyecto es facilitar la tarea de docentes en la gestion del aul
 [Wiki del proyecto](https://github.com/jeremiastome/gestoraula-doc/wiki)
 
 ### Repositorio frontend
-[Wiki del proyecto](https://github.com/jeremiastome/gestoraula-frontend)
+[Repositorio frontend](https://github.com/jeremiastome/gestoraula-frontend)
 
 ### Repositorio backend
-[Wiki del proyecto](https://github.com/jeremiastome/gestoraula-backend)
+[Repositorio backend](https://github.com/jeremiastome/gestoraula-backend)
