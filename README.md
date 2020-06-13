@@ -1,5 +1,4 @@
 ![](https://github.com/jeremiastome/gestoraula-doc/blob/master/doc/logo.png) 
-
 # Trabajo de inserción profesional
 
 
