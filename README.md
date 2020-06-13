@@ -1,4 +1,4 @@
-# Trabajo de inserción profesional
+![](https://github.com/jeremiastome/gestoraula-doc/blob/master/doc/logo.png)  # Trabajo de inserción profesional
 
 
 ### Proyecto: Gestor aula 
